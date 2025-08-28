@@ -1,0 +1,14 @@
+Smart_Agri_NodeMCU
+Author: R.Vinoth
+Date: 2025-08-27
+
+Objectives:
+- Build a NodeMCU sensor node prototype.
+- Send soil moisture data to cloud.
+- Practice git branching, conflict resolution, and GitHub collaboration.
+
+Files:
+- sensor.py : main python script for sensor node
+- project_notes.txt : this notes file.
+
+Status: initial files created, startup message added
